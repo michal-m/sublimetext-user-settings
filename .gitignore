@@ -1,0 +1,6 @@
+*.cache
+Package Control.sublime-settings
+Package Control.last-run
+
+/*.sublime-project
+*.sublime-workspace
