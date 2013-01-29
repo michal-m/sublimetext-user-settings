@@ -1,0 +1,27 @@
+{
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/User/Monokai Soda.tmTheme",
+    "default_line_ending": "unix",
+	"detect_slow_plugins": false,
+    "dictionary": "Packages/Language - English/en_GB.dic",
+    "ensure_newline_at_eof_on_save": true,
+    "fallback_encoding": "Central European (Windows 1250)",
+    "font_face": "Inconsolata",
+    "font_options": ["directwrite"],
+    "font_size": 10,
+    "highlight_line": true,
+	"ignored_packages":
+	[
+		"Git",
+		"SideBarGit",
+		"Vintage"
+	],
+    "margin": -10,
+    "match_brackets_angle": true,
+    "rulers": [80],
+    "shift_tab_unindent": true,
+	"theme": "Soda Dark.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": true
+}
