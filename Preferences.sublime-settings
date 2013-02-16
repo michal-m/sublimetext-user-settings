@@ -5,7 +5,7 @@
     // "color_scheme": "Packages/Color Schemes/Monokai Soda.tmTheme",
     "default_line_ending": "unix",
     "dictionary": "Packages/Language - English/en_GB.dic",
-    "ensure_newline_at_eof_on_save": true,
+    "ensure_newline_at_eof_on_save": false,
     "fallback_encoding": "Central European (Windows 1250)",
     "font_face": "Inconsolata",
     "font_options": ["directwrite"],
