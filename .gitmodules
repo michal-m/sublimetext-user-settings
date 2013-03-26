@@ -1,0 +1,3 @@
+[submodule "INI"]
+	path = INI
+	url = git://github.com/robertcollier4/sublime-text-2-ini.git
