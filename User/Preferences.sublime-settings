@@ -9,7 +9,7 @@
     "fallback_encoding": "Central European (Windows 1250)",
     "font_face": "Inconsolata",
     "font_options": ["directwrite"],
-    "font_size": 10,
+    "font_size": 12,
     "highlight_line": true,
     "margin": -10,
     "match_brackets_angle": true,
