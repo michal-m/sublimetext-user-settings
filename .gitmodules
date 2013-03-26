@@ -4,3 +4,6 @@
 [submodule "GitGutter"]
 	path = GitGutter
 	url = git://github.com/jisaacks/GitGutter.git
+[submodule "ApacheConf"]
+	path = ApacheConf
+	url = git://github.com/colinta/ApacheConf.tmLanguage.git
