@@ -7,3 +7,6 @@
 [submodule "ApacheConf"]
 	path = ApacheConf
 	url = git://github.com/colinta/ApacheConf.tmLanguage.git
+[submodule "DocBlockr"]
+	path = DocBlockr
+	url = git://github.com/spadgos/sublime-jsdocs.git
